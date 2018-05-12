@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15295#Le-juif-errant---Tome-I
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-03-08'
 gutenberg_type: Text
